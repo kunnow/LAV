@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/lav">
+        <file>Icons/appointment_bg.png</file>
+        <file>Icons/bg.jpg</file>
+        <file>Icons/bgbgbg.jpg</file>
+        <file>Icons/ccs-4x5 (1).jpg</file>
+        <file>Icons/delete_add_bg.png</file>
+        <file>Icons/LAV logo.png</file>
+        <file>Icons/pfbg1.png</file>
+        <file>Icons/pfbg2.png</file>
+        <file>Icons/profieladd.png</file>
+        <file>Icons/profilebg.png</file>
+        <file>Icons/profiletb.png</file>
+        <file>Icons/tbprofile.png</file>
+        <file>Icons/Untitled-1.jpg</file>
+        <file>Icons/Untitled-3.png</file>
+        <file>Icons/Untitled-4.png</file>
+    </qresource>
+</RCC>
